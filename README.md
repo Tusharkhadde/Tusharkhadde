@@ -16,6 +16,19 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - 📫 How to reach me: **tusharkhadde06@gmail.com**
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar-khadde-192618342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/tusharkhadde/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/tusharkhadde" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 ## 🛠️ Tech Stack
 
 ### Frontend
