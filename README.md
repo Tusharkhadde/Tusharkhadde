@@ -14,6 +14,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 - 🌱 I'm currently learning **TypeScript & Next.js**
 - 💡 Solved **200+ problems** on LeetCode
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
+- 🧠 Check out my project: **[Second Brain](https://second-brain-jade-xi.vercel.app/)**
 - 📫 How to reach me: **tusharkhadde06@gmail.com**
 
 ## 🌐 Connect With Me
@@ -28,7 +29,35 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
   <a href="https://www.codechef.com/users/tusharkhadde" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
+  <a href="https://second-brain-jade-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Second_Brain-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
+  </a>
 </p>
+
+## 💼 Featured Project
+
+### 🧠 Second Brain
+
+> A powerful knowledge management system to organize your thoughts, notes, and ideas efficiently.
+
+<p align="center">
+  <a href="https://second-brain-jade-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Tusharkhadde/Second_Brain" target="_blank">
+    <img src="https://img.shields.io/badge/📦_Repository-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Tech Stack:** React, typescript, MongoDB, Tailwind CSS
+
+**Key Features:**
+- 📝 Create and organize notes with tags
+- 🔍 Advanced search functionality
+- 🎨 Clean and intuitive UI
+- 🔐 Secure authentication
+- 📱 Responsive design
+
 ## 🛠️ Tech Stack
 
 ### Frontend
