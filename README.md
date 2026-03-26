@@ -34,20 +34,79 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 </p>
 
 ## 💼 Featured Project
+All projects are fully deployed and production live:
+
+---
 
 ### 🧠 Second Brain
-
 > A powerful knowledge management system to organize your thoughts, notes, and ideas efficiently.
 
-<p align="center">
+<p align="left">
   <a href="https://second-brain-jade-xi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
   </a>
   <a href="https://github.com/Tusharkhadde/Second_Brain" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Repository-GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
+**Tech Stack:** React, TypeScript, Node.js, MongoDB, Tailwind CSS
+
+**Key Features:**
+- 📝 Create and organize notes with tags
+- 🔍 Fuzzy full text search
+- 🎨 Clean and intuitive UI
+- 🔐 JWT Authentication
+- 📱 Fully responsive design
+
+---
+
+### 💬 Real Time Chat Application
+> Feature rich instant messaging platform with sub 100ms latency.
+
+<p align="left">
+  <a href="https://real-time-chatapplication-fcpr.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Tusharkhadde/Real-Time-Chatapplication" target="_blank">
+    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Tech Stack:** React, Node.js, Socket.io, Express, MongoDB, Tailwind
+
+**Key Features:**
+- ⚡ Real time messaging with Socket.io
+- 👥 One to one private messaging
+- 🔔 Online / offline status indicators
+- 🔐 Secure user authentication
+- 💾 Permanent message history
+- 📱 100% mobile responsive
+
+---
+
+### 🌍 Country Explorer
+> Interactive encyclopedia for every country in the world.
+
+<p align="left">
+  <a href="https://country-explorer-chi-teal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Tusharkhadde/Country-Explorer" target="_blank">
+    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+**Tech Stack:** React, REST Countries API, Tailwind CSS
+
+**Key Features:**
+- 🌐 Data for all 250+ countries
+- 🔍 Search and filter by name, region and population
+- 📊 Detailed statistics and information
+- 🌙 Dark / Light mode toggle
+- 🎨 Beautiful modern UI
+
+---
 **Tech Stack:** React, typescript, MongoDB, Tailwind CSS
 
 **Key Features:**
