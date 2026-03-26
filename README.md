@@ -13,7 +13,6 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I 
 - 🔭 I'm currently working on **MERN Stack Projects**
 - 🌱 I'm currently learning **TypeScript & Next.js**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 🧠 Check out my project: **[Second Brain](https://second-brain-jade-xi.vercel.app/)**
 - 📫 How to reach me: **tusharkhadde06@gmail.com**
 
 ## 🌐 Connect With Me
