@@ -1,168 +1,92 @@
-# Hi there, I'm Tushar Khadde 👋
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Currently+Learning+TypeScript+%26+Next.js)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Tushar%20Khadde&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Monorepo%20Architecture&descSize=14&descAlignY=85&descColor=a0aec0" width="100%" />
+
+[![Email](https://img.shields.io/badge/Gmail-tusharkhadde06-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tusharkhadde06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Tusharkhadde-181717?style=flat-square&logo=github)](https://github.com/Tusharkhadde)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tusharkhadde&label=Profile+Views&color=302b63&style=flat-square)](https://github.com/Tusharkhadde)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN Stack**. I love building scalable web applications and solving complex algorithmic problems. Currently exploring the power of **TypeScript** and **Next.js** to level up my development skills!
+### About
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm currently learning **TypeScript & Next.js**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **tusharkhadde06@gmail.com**
+I build scalable, production-grade web apps with the **MERN stack**, with a focus on **monorepo architecture** using Turborepo — systems designed to stay fast and maintainable as they grow.
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-khadde-192618342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/tusharkhadde/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/tusharkhadde" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://second-brain-jade-xi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Second_Brain-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
-  </a>
-</p>
-
-## 💼 Featured Project
-All projects are fully deployed and production live:
+```text
+ Building production-grade MERN Stack apps       Monorepo architecture with Turborepo
+ Leveling up in TypeScript & Next.js             Contributed to 32k+ & 26k+ starred OSS projects
+```
 
 ---
 
-### 🧠 Second Brain
-> A powerful knowledge management system to organize your thoughts, notes, and ideas efficiently.
-
-<p align="left">
-  <a href="https://second-brain-jade-xi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tusharkhadde/Second_Brain" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-**Tech Stack:** React, TypeScript, Node.js, MongoDB, Tailwind CSS
-
-**Key Features:**
-- 📝 Create and organize notes with tags
-- 🔍 Fuzzy full text search
-- 🎨 Clean and intuitive UI
-- 🔐 JWT Authentication
-- 📱 Fully responsive design
-
----
-
-### 💬 Real Time Chat Application
-> Feature rich instant messaging platform with sub 100ms latency.
-
-<p align="left">
-  <a href="https://real-time-chatapplication-fcpr.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tusharkhadde/Real-Time-Chatapplication" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-**Tech Stack:** React, Node.js, Socket.io, Express, MongoDB, Tailwind
-
-**Key Features:**
-- ⚡ Real time messaging with Socket.io
-- 👥 One to one private messaging
-- 🔔 Online / offline status indicators
-- 🔐 Secure user authentication
-- 💾 Permanent message history
-- 📱 100% mobile responsive
-
----
-
-### 🌍 Country Explorer
-> Interactive encyclopedia for every country in the world.
-
-<p align="left">
-  <a href="https://country-explorer-chi-teal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Live_Demo-Click_Here-success?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tusharkhadde/Country-Explorer" target="_blank">
-    <img src="https://img.shields.io/badge/📦_Repository-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-**Tech Stack:** React, REST Countries API, Tailwind CSS
-
-**Key Features:**
-- 🌐 Data for all 250+ countries
-- 🔍 Search and filter by name, region and population
-- 📊 Detailed statistics and information
-- 🌙 Dark / Light mode toggle
-- 🎨 Beautiful modern UI
-
----
-**Tech Stack:** React, typescript, MongoDB, Tailwind CSS
-
-**Key Features:**
-- 📝 Create and organize notes with tags
-- 🔍 Advanced search functionality
-- 🎨 Clean and intuitive UI
-- 🔐 Secure authentication
-- 📱 Responsive design
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 🏆 LeetCode Stats
+### Open Source Contributions
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/tusharkhadde?theme=dark&font=Noto%20Sans&ext=heatmap)
+[![Merged PRs](https://img.shields.io/badge/View%20All%20Merged%20PRs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3ATusharkhadde+is%3Amerged)
 
 </div>
 
-**Problem Solving Achievements:**
-- ✅ 200+ Problems Solved
-- 💡 Strong in: Arrays, Strings, Dynamic Programming, Trees, Graphs
-- 🎯 Currently focusing on: System Design & Advanced Data Structures
+| Project | Description | Stars | PRs |
+|---|---|---|---|
+| [cal.com][cal-repo] | Open-source Calendly alternative | ⭐ 32k+ | [#29519][cal-pr-29519] `merged` |
+| [medusajs/medusa][medusa-repo] | Open-source Shopify alternative | ⭐ 26k+ | [#15531][medusa-pr-15531] [#15662][medusa-pr-15662] `merged` |
 
-## 🌟 What I'm Currently Learning
+[cal-repo]: https://github.com/calcom/cal.com
+[cal-pr-29519]: https://github.com/calcom/cal.com/pull/29519
+[medusa-repo]: https://github.com/medusajs/medusa
+[medusa-pr-15531]: https://github.com/medusajs/medusa/pull/15531
+[medusa-pr-15662]: https://github.com/medusajs/medusa/pull/15662
 
-```javascript
-const currentlyLearning = {
-  languages: ['TypeScript'],
-  frameworks: ['Next.js'],
-  focus: [
-    'Server-Side Rendering (SSR)',
-    'Static Site Generation (SSG)',
-    'Type Safety in Large Applications',
-    'Advanced React Patterns'
-  ],
-  nextGoals: ['GraphQL', 'Docker', 'AWS']
-};
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
+
+**Tooling** &nbsp;
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Tusharkhadde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="155" src="https://streak-stats.demolab.com?user=Tusharkhadde&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharkhadde&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
+
+*Open to collaborations, open source, and exciting opportunities — feel free to reach out!*
+
+</div>
