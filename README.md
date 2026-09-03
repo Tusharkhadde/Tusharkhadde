@@ -4,6 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-tusharkhadde06-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tusharkhadde06@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tusharkhadde-181717?style=flat-square&logo=github)](https://github.com/Tusharkhadde)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Devtushark)
 [![Profile Views](https://komarev.com/ghpvc/?username=Tusharkhadde&label=Profile+Views&color=302b63&style=flat-square)](https://github.com/Tusharkhadde)
 
 </div>
@@ -21,6 +22,21 @@ I build scalable, production-grade web apps with the **MERN stack**, with a focu
 
 ---
 
+### Experience
+
+ Afterquery Experts &nbsp;·&nbsp; *Part-time* &nbsp;·&nbsp; Remote
+
+- Working as a developer with Afterquery Experts, delivering client-facing web solutions on a project basis.
+- Collaborating remotely to ship features, iterate on feedback, and maintain production-quality code.
+
+---
+
+### Achievements
+
+- 🏆 Won Web3 bounties
+
+---
+
 ### Open Source Contributions
 
 <div align="center">
@@ -31,14 +47,13 @@ I build scalable, production-grade web apps with the **MERN stack**, with a focu
 
 | Project | Description | Stars | PRs |
 |---|---|---|---|
-| [cal.com][cal-repo] | Open-source Calendly alternative | ⭐ 32k+ | [#29519][cal-pr-29519] `merged` |
-| [medusajs/medusa][medusa-repo] | Open-source Shopify alternative | ⭐ 26k+ | [#15531][medusa-pr-15531] [#15662][medusa-pr-15662] `merged` |
+| [cal.com][cal-repo] | Open-source Calendly alternative | ⭐ 32k+ | [Merged PRs][cal-prs] |
+| [medusajs/medusa][medusa-repo] | Open-source Shopify alternative | ⭐ 26k+ | [Merged PRs][medusa-prs] |
 
 [cal-repo]: https://github.com/calcom/cal.com
-[cal-pr-29519]: https://github.com/calcom/cal.com/pull/29519
+[cal-prs]: https://github.com/search?q=author%3ATusharkhadde+org%3Acalcom+is%3Apr+is%3Amerged&type=pullrequests
 [medusa-repo]: https://github.com/medusajs/medusa
-[medusa-pr-15531]: https://github.com/medusajs/medusa/pull/15531
-[medusa-pr-15662]: https://github.com/medusajs/medusa/pull/15662
+[medusa-prs]: https://github.com/search?q=author%3ATusharkhadde+org%3Amedusajs+is%3Apr+is%3Amerged&type=pullrequests
 
 ---
 
