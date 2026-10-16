@@ -31,7 +31,7 @@ Computer Science student at **AISSMS IOIT, Pune**, building full-stack products 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
 | **Bollard UI** | 300+ copy-paste React components built to survive real user input | React · Tailwind · shadcn registry | [Open](https://craftedui-three.vercel.app) |
-| **[DrawBoard](https://github.com/Tusharkhadde/DrawBoard)** | Collaborative drawing app built as a Turborepo monorepo | TypeScript · Next.js · Turborepo | [Open](https://drawboard-peach.vercel.app) |
+| **[DrawBoard](https://github.com/Tusharkhadde/DrawBoard)** | Drawing app built as a Turborepo monorepo | TypeScript · Turborepo | [Open](https://drawboard-peach.vercel.app) |
 
 <sub>More on my <a href="https://www.devtushar.tech/">portfolio</a> · <a href="https://github.com/Tusharkhadde?tab=repositories">all repositories</a></sub>
 
