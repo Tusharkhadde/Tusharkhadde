@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-Computer Science student at **AISSMS IOIT, Pune**, building full-stack products that solve real developer and small-business problems — from Postgres incident tooling to CI cost control to AI-agent guardrails.
+Computer Science student , building full-stack products that solve real developer and small-business problems — from Postgres incident tooling to CI cost control to AI-agent guardrails.
 
 - 🛠️ I take ideas from schema to deploy: **Next.js, TypeScript, Node, Postgres/Prisma/Drizzle, Tailwind**, shipped on Vercel
 - 🤖 Building with LLMs: RAG, agents, MCP servers, local models
@@ -30,7 +30,7 @@ Computer Science student at **AISSMS IOIT, Pune**, building full-stack products 
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| **Bollard UI** | 300+ copy-paste React components built to survive real user input | React · Tailwind · shadcn registry | [Open](https://craftedui-three.vercel.app) |
+| **[Bollard UI](https://github.com/Tusharkhadde/Bollard-UI)** | 300+ copy-paste React components built to survive real user input | React · Tailwind · shadcn registry | [Open](https://craftedui-three.vercel.app) |
 | **[DrawBoard](https://github.com/Tusharkhadde/DrawBoard)** | Drawing app built as a Turborepo monorepo | TypeScript · Turborepo | [Open](https://drawboard-peach.vercel.app) |
 
 <sub>More on my <a href="https://www.devtushar.tech/">portfolio</a> · <a href="https://github.com/Tusharkhadde?tab=repositories">all repositories</a></sub>
